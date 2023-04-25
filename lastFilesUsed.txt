@@ -1,0 +1,2 @@
+/home/vudar/Code/CurveFitting/R-Projects/NewCurveFitting/UnprocessedFiles/Bryant-IMGN853-Rad51-N-3-CurveFittingResults -  2023-04-04/ FittedCurveData 2023-04-04 .txt
+/home/vudar/Code/CurveFitting/R-Projects/NewCurveFitting/Cell_GROWTH_RATE.txt
